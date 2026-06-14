@@ -1,0 +1,24 @@
+Package: ai.akemi.appinst
+Architecture: iphoneos-arm
+Version: 2.1.1
+Priority: standard
+Section: Utilities
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 364
+Provides: com.linusyang.appinst
+Pre-Depends: firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Replaces: com.linusyang.appinst
+Filename: ./debians/iphoneos-arm/ai.akemi.appinst_2.1.1_iphoneos-arm.deb
+Size: 59716
+MD5sum: 891aef5b77f11e286edd1440dd905943
+SHA1: 86f090c7e88452fb89baf14beacbb26d2392003e
+SHA256: 5997771183c39eb8b5e13fc2bb511b1dfcb7eb39d3f10c9092ab088ec34aae09
+SHA512: fd11011d0fffc305b6361e46d3edbc0bfff591d699fc8ecb5e1fd3590181a8fb67b87e4e394e946240927182739e6399714a89dd7d3ac929d47be76456a655bf
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Name: appinst (App Installer)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
