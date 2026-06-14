@@ -1,0 +1,15 @@
+Package: com.ps.JuiceLite
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: ikurd repo
+Installed-Size: 620824
+Depends: mobilesubstrate, com.a3tweaks.JuiceLite
+Filename: debs/JuiceLite.deb
+Size: 620824
+MD5sum: 931002acf201eaa2018bd5cefca7cdb6
+SHA1: 15df72b6a5d374308d7161afd66ffad2397222a5
+SHA256: 542223ea9a0e1dc77d85fd410db406367ee4ea541b86284b84a3453780819918
+Section: Addons (Juice Lite)
+Description: ئەمە یەکەم توییکی سورسەکەمە بۆ دەستکاریکردنی سیستمی ئایۆس
+Author: esm4il
+Name: Juice Lite
