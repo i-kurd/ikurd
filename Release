@@ -1,7 +1,7 @@
 Origin: iKurd Repo
 Label: iKurd Repo
 Suite: stable
-Version: 0.1.0
+Version: 0.1.5
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
